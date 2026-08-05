@@ -4,7 +4,7 @@
 
 ---
 
-**Diferenças entre aspas simples (') e aspas duplas (")**
+**Diferenças entre aspas simples (') e aspas duplas (") ===**
 
 ![diferença.png](img/aula1/diferença.png)
 
@@ -14,7 +14,7 @@ Exemplo do comando "echo" seguido da variável "$SHELL", que retorna o shell pad
 
 ---
 
-**Encapsular aspas duplas dentro de aspas duplas**
+**Encapsular aspas duplas dentro de aspas duplas ===**
 
 ![encapsular.png](img/aula1/encapsular.png)
 
@@ -23,7 +23,7 @@ Exemplo do comando "echo" seguido da variável "$SHELL", que retorna o shell pad
 
 ![simples.png](img/aula1/simples.png)
 
-**Variáveis com aspas duplas**
+**Variáveis com aspas duplas ===**
 
 ![variável.png](img/aula1/variável.png)
 
@@ -31,7 +31,8 @@ Exemplo do comando "echo" seguido da variável "$SHELL", que retorna o shell pad
 
 ---
 
-**Caracteres de escape**
+**Caracteres de escape ===**
+
 ![escape.png](img/aula1/escape.png)
 
 *Observe que a barra invertida também pode ser utilizada para inutilizar uma variável, então a variável "$NOME" se tornou apenas texto puro*
