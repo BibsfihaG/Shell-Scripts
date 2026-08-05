@@ -23,6 +23,8 @@ Exemplo do comando "echo" seguido da variável "$SHELL", que retorna o shell pad
 
 ![simples.png](img/aula1/simples.png)
 
+---
+
 **Variáveis com aspas duplas ===**
 
 ![variável.png](img/aula1/variável.png)
